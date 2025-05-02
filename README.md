@@ -1,6 +1,7 @@
 ## Hi there 👋
 ![Tech-Savvy Feline](minino.png)
 <img src="minino.png" alt="Tech-Savvy Feline" width="300"/>
+<img src="minino.png" alt="Banner" width="100%" />
 
 <!--
 **PIPEFD/PIPEFD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
