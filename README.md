@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Tech-Savvy Feline](minino.png)
 <!--
 **PIPEFD/PIPEFD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
