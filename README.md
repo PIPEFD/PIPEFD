@@ -37,6 +37,14 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/226orzsjpmul2rialslb2vaza?si=f1813f7f4586461d)
 
 ---
+# 🎮 Proyecto Raycasting en JS
+
+![Demo Raycasting](https://github.com/PIPEFD/RayCasting/blob/main/hola.jpg)
+
+➡️ [Ver en vivo](https://tuusuario.github.io/raycasting-js/)
+
+
+---
 
 <!--
 **PIPEFD/PIPEFD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
