@@ -37,7 +37,7 @@
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/226orzsjpmul2rialslb2vaza?si=f1813f7f4586461d)
 
 ---
-### 🎮 Proyecto Raycasting en JS <img src="js.png"  />
+### 🔫  Raycasting Proyect  JS ⚡
 
 ![Demo Raycasting](https://github.com/PIPEFD/RayCasting/blob/main/hola.jpg)
 
