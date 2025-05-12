@@ -41,7 +41,7 @@
 
 ![Demo Raycasting](https://github.com/PIPEFD/RayCasting/blob/main/hola.jpg)
 
-# 🛑LIVE (https://pipefd.github.io/RayCasting/) 🎮🕹️
+# 🛑ONE AIR (https://pipefd.github.io/RayCasting/) 🎮🕹️
 
 
 ---
