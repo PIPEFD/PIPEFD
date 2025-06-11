@@ -94,8 +94,9 @@ tech stack icons
 
 
 ---
+### 🌐🌐 WEB Server (404 Error not found) 🦖🦖🦖
 
-<img src="rex.pgn" alt="Banner" width="100%" />
+<img src="rex2.jpg" alt="Banner" width="100%" url="https://github.com/PIPEFD/Web-Server"/>
 
 
 <!--
