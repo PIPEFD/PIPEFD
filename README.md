@@ -95,6 +95,9 @@ tech stack icons
 
 ---
 
+<img src="rex.pgn" alt="Banner" width="100%" />
+
+
 <!--
 **PIPEFD/PIPEFD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
