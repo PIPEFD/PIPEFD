@@ -115,7 +115,7 @@ tech stack icons
 ### 🐚 MiniShell - Custom Shell Implementation 💻⚡
 
 <a href="https://github.com/PIPEFD/MiniShell">
-  <img src="minishell.png" alt="MiniShell Banner" width="100%" />
+  <img src="minishell.jpeg" alt="MiniShell Banner" width="100%" />
 </a>
 
 
