@@ -1,6 +1,7 @@
 <a href="https://github.com/PIPEFD">
   <img src="minino2.png" alt="Banner" width="100%" height="200" style="object-fit: cover;" />
 </a>
+
 ---
 
 <!--- stats & Trophy (start) -->
@@ -36,6 +37,7 @@
 </p>        
 <!--- stats (end) -->
 
+---
 
 <!-- h1 without bottom border
 <div id="user-content-toc">
@@ -50,7 +52,7 @@ tech stack icons
   </a>
 </p> -->
 
-
+---
 
 ```c
 #include <unistd.h>
@@ -76,7 +78,6 @@ tech stack icons
  }
 ```
 
-
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
@@ -86,14 +87,15 @@ tech stack icons
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/226orzsjpmul2rialslb2vaza?si=f1813f7f4586461d)
 
 ---
+
 ### 🔫  Raycasting Proyect  JS ⚡
 
 [![Demo Raycasting](https://github.com/PIPEFD/RayCasting/blob/main/hola.jpg)](https://pipefd.github.io/RayCasting/)
 
 # 🛑[ONE AIR](https://pipefd.github.io/RayCasting/) 🎮🕹️
 
-
 ---
+
 ### 🌐🌐 WEB Server (404 Error not found) 🦖🦖🦖
 
 <a href="https://github.com/PIPEFD/Web-Server">
@@ -101,10 +103,19 @@ tech stack icons
 </a>
 
 ---
+
 ### 🌀 Fractol - Fractal Explorer 🎨✨
 
 <a href="https://github.com/PIPEFD/42Urduliz/tree/master/Fractol">
   <img src="fractol.png" alt="Fractol Banner" width="100%" />
+</a>
+
+---
+
+### 🐚 MiniShell - Custom Shell Implementation 💻⚡
+
+<a href="https://github.com/PIPEFD/MiniShell">
+  <img src="minishell.png" alt="MiniShell Banner" width="100%" />
 </a>
 
 
