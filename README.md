@@ -1,7 +1,6 @@
 ## Hi there 👋
-!
 <a href="https://github.com/PIPEFD">
-  <img src="minino2.png" alt="Banner" width="100%" />
+  <img src="minino2.png" alt="Banner" width="100%" height="200" style="object-fit: cover;" />
 </a>
 ---
 
