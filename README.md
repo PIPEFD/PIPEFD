@@ -18,7 +18,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PIPEFD&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=PIPEFD&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10&hide=scss"/>
   
   </td>
 </tr>
@@ -60,10 +60,27 @@ tech stack icons
 ./PIPEFD "David Felipe Bonilla Ladino" "https://www.linkedin.com/in/david-felipe-bonilla" 
 /**
 
- ft_aboutme(char *string1, char *string2)
+
+int ft_put_string (char *string)
+ {
+    while (*string)
+    {
+      write (1, string, 1);
+      string++;
+    }
+ }
+ int ft_aboutme(char *string1, char *string2)
  {
     
-    if (stsr)
+    if (string1 && string2)
+    {
+      write (1, "Mi nombre es: ", 15);
+      ft_put_string (string1);
+      write (1, "\nMi LinkedIn es: ", 18);
+      ft_put_string (string2);
+      write (1, "\n", 1);
+    }
+    return (0);
  }
  int main (int argc, char **argv)
  {
