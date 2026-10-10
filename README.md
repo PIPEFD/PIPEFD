@@ -2,6 +2,10 @@
   <img src="minino2.png" alt="Banner" width="100%" />
 </a>
 
+<p align="center">
+  <img src="corazon.gif" alt="Pixel heart" width="260" />
+</p>
+
 ---
 
 <!--- stats & Trophy (start) -->
