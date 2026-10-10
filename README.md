@@ -3,7 +3,9 @@
 </a>
 
 <p align="center">
-  <img src="corazon.gif" alt="Pixel heart" width="260" />
+  <a href="https://pipefd.github.io/pixel-emoji/">
+    <img src="corazon.gif" alt="Pixel heart" width="260" />
+  </a>
 </p>
 
 ---
