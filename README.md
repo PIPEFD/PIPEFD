@@ -8,6 +8,11 @@
   </a>
 </p>
 
+<p align="center">
+  <b>Hecho pixel a pixel.</b><br>
+  Dale clic al corazón y míralo en vivo.
+</p>
+
 ---
 
 <!--- stats & Trophy (start) -->
